@@ -1,0 +1,13 @@
+﻿cl : ligne de commande warning D9002: option '-std=c++11' inconnue ignorée
+  export_matlab.cpp
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\bezier.hpp(28,10): error C2143: erreur de syntaxe : absence de ';' avant '('
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\bezier.hpp(38): message : voir la référence à l'instanciation classe modèle 'bezier<TYPE>' en cours de compilation
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\bezier.hpp(28,1): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\bezier.hpp(28,22): error C2061: erreur de syntaxe : identificateur 'vec2'
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\export_matlab.cpp(26,46): warning C5219: conversion implicite de 'int' en 'float', perte possible de données
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\limits.h(70,5): warning C4668: '__STDC_WANT_SECURE_LIB__' non défini(e) comme préprocesseur ou macro, remplacement par '0' pour '#if/#elif'
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\bezier.hpp(33,1): error C2535: 'vec2 bezier<vec2>::operator ()(vec2) const' : fonction membre déjà définie ou déclarée
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\bezier.hpp(28): message : voir la déclaration de 'bezier<vec2>::operator ()'
+C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_3\src\main.cpp(43): message : voir la référence à l'instanciation classe modèle 'bezier<vec2>' en cours de compilation
+  Génération de code en cours...
