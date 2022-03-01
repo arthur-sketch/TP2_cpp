@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_2\build\CMakeFiles\1659298f6c52a2f0e95bff02be1b6c89\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0236FAF8-FB8E-3956-AD74-1951A7195DB7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

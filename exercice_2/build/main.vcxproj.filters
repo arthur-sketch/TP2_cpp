@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_2\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_2\src\bezier.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_2\src\export_matlab.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lhost\OneDrive\Bureau\2122_4imi_cpp_classes_genericite-toux_l-host\exercice_2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{80353F59-20DB-3379-A4B9-AF33275BF0B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5703F021-8ECC-3C52-9013-1DD8656F52FA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

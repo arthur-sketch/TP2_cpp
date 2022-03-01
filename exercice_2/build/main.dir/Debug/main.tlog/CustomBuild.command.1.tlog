@@ -1,0 +1,10 @@
+^C:\USERS\LHOST\ONEDRIVE\BUREAU\2122_4IMI_CPP_CLASSES_GENERICITE-TOUX_L-HOST\EXERCICE_2\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/lhost/OneDrive/Bureau/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_2 -BC:/Users/lhost/OneDrive/Bureau/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_2/build --check-stamp-file C:/Users/lhost/OneDrive/Bureau/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_2/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
