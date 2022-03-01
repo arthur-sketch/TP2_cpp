@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/bezier.cpp
+bezier.hpp
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/bezier.hpp
+
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/bezier.hpp
+iostream
+-
+math.h
+-
+
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/export_matlab.cpp
+export_matlab.hpp
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/export_matlab.hpp
+iostream
+-
+exception
+-
+fstream
+-
+
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/export_matlab.hpp
+bezier.hpp
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/bezier.hpp
+string
+-
+
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/main.cpp
+bezier.hpp
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/bezier.hpp
+iostream
+-
+export_matlab.hpp
+/fs03/share/users/arthur.l-host/home/Bureau/c++/2122_4imi_cpp_classes_genericite-toux_l-host/exercice_1/src/export_matlab.hpp
+
